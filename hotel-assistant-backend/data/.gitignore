@@ -1,0 +1,6 @@
+# Ignore generated database and vector store files
+hotel.db
+chroma_db/
+
+# Keep the PDF document
+!hotel_document.pdf
